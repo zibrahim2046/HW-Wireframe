@@ -1,0 +1,22 @@
+.main body {
+    font-family: Arial,Helvetica,Sans-serif;
+    color: #777;
+    background: #777
+    width= 960px;
+    font-size: 18px;
+}
+header {background: #ebebeb
+}
+
+nav {
+    background: #ebebeb;}
+
+section {background: #ebebeb;
+float: left}
+
+
+article {
+   background: #777;
+    color: #ebebeb;
+
+}
